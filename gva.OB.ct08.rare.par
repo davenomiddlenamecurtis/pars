@@ -1,0 +1,14 @@
+/home/rejudcu/sequence/UKSCZ130420/UK10K_NEURO_ABERDEEN.raw.vcf.gz /home/rejudcu/sequence/UKSCZ130420/UK10K_NEURO_EDINBURGH.raw.vcf.gz /home/rejudcu/sequence/UKSCZ130420/UK10K_NEURO_GURLING.raw.vcf.gz /home/rejudcu/sequence/UKSCZ130420/UK10K_NEURO_IOP_COLLIER.raw.vcf.gz /home/rejudcu/sequence/UKSCZ130420/UK10K_NEURO_UKSCZ.raw.vcf.gz 
+/home/rejudcu/sequence/UKOB130420/UK10K_OBESITY_SCOOP.raw.vcf.gz
+/home/rejudcu/reference/refseqgenesorted.txt /home/rejudcu/reference/SureSelect_All_Exon_50mb.hg19.w100.nr.bed 0 - target, number of bases to trim off each end of target
+0 0
+10.0 0
+0 8 1 0 1 0 1 80 0.9 0 - use ensembl, consequenceThreshold, useConsequenceWeights, not only SNPs, write comments, write scores, do recessive, weight threshold, LD threshold, add "chr" in VCF
+/home/rejudcu/reference - location of reference sequence files
+30 - GQ quality score threshold
+nsub(1)<982-5 | nsub(0)<1392-5
+freq(0)=0 & freq(1)=0
+freq(0)>0.1 & freq(1)>0.1
+(0 genocount 0) > (0 genocount 1) & (0 genocount 2) > (0 genocount 1) & (1 genocount 0) > (1 genocount 1) & (1 genocount 2) > (1 genocount 1)     
+
+

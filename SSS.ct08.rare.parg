@@ -1,0 +1,7 @@
+--output-file-spec /cluster/project8/bipolargenomes/SSS/SSS.ct08.rare/pathways/SSS.ct08.rare.PATHWAY.pao
+--score-file-spec /cluster/project8/bipolargenomes/SSS/SSS.ct08.rare/results/SSS.ct08.rare.GENE.sco
+--summary-file /cluster/project8/bipolargenomes/SSS/SSS.ct08.rare/pathways/SSS.ct08.rare.summ.pao
+--gene-level-output-threshold 0
+--pathway-file /cluster/project8/bipolargenomes/SSS/SSS.ct08.rare/pathways/SSS.ct08.rare.bestPathways.txt
+--pathway-file /home/rejudcu/reference/c5.all.v5.0.symbols.gmt
+

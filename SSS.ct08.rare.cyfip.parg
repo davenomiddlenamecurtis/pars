@@ -1,0 +1,6 @@
+--output-file-spec /home/rejudcu/cyfip/SSS.ct08.rare.PATHWAY.pao
+--score-file-spec /cluster/project8/bipolargenomes/SSS/SSS.ct08.rare/results/SSS.ct08.rare.GENE.sco
+--summary-file /home/rejudcu/cyfip/SSS.ct08.rare.cyfip.pao
+--pathway-file /home/rejudcu/reference/cyfip.interactors.txt
+--gene-level-output-threshold -10
+

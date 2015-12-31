@@ -1,0 +1,7 @@
+--score-file-spec /cluster/project8/bipolargenomes/SSS/SSS.ct08.rare/results/SSS.ct08.rare.GENE.sco
+--summary-file /cluster/project8/bipolargenomes/SSS/SSS.ct08.rare/pathways/SSS.ct08.rare.summ.perm.pao
+--SLP-file /cluster/project8/bipolargenomes/SSS/SSS.ct08.rare/pathways/SSS.ct08.rare.SLPs.pao
+--pathway-file /home/rejudcu/reference/c5.all.v5.0.symbols.gmt
+--pathway-threshold 1.735
+--nPerms 999
+

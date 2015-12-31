@@ -1,0 +1,13 @@
+/home/rejudcu/sequence/SSSchizophrenia/SSSPhenotypes.txt -1
+/home/rejudcu/sequence/SSSchizophrenia/scz-only-exome-all-nozeros.vcf.gz
+/home/rejudcu/reference/refseqgenesorted.txt 
+1000 0
+10.0 0
+0 13 1 1 1 0 1 80 0.7 1 - do not use ensembl, consequenceThreshold, useConsequenceWeights, only SNPs, write comments, write scores, do recessive, weight threshold, LD threshold, add "chr" in VCF
+/home/rejudcu/reference - location of reference sequence files
+30 - GQ quality score threshold
+freq(0)=0 & freq(1)=0
+nsub(0)<2545-100 | nsub(1)<2545-100
+freq(0)>0.1 & freq(1)>0.1
+(0 genocount 0) > (0 genocount 1) & (0 genocount 2) > (0 genocount 1) & (1 genocount 0) > (1 genocount 1) & (1 genocount 2) > (1 genocount 1)     
+

@@ -1,0 +1,9 @@
+--score-file-spec /cluster/project8/bipolargenomes/SSS/SSS.ct08.rare/results/SSS.ct08.rare.GENE.sco
+--SLP-file /home/rejudcu/cyfip/SSS.ct08.rare.cyfip.SLPs.pao
+--pathway-threshold -10
+--nPerms 1
+--score-file-spec /cluster/project8/bipolargenomes/SSS/SSS.ct08.rare/results/SSS.ct08.rare.GENE.sco
+--summary-file /home/rejudcu/cyfip/SSS.ct08.rare.cyfip.perm.pao
+--pathway-file /home/rejudcu/reference/cyfip.interactors.txt
+
+
