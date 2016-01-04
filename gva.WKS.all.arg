@@ -1,5 +1,5 @@
---phenotype-file /cluster/project8/bipolargenomes/WKS/mainset_November2015_IDs.txt
---case-file  /home/rejudcu/sequence/UCLexomes/mainset_November2015_chr*.vcf.gz
+--phenotype-file /cluster/project8/bipolargenomes/WKS/mainset_December2015_IDs.WKS.txt
+--case-file  /home/rejudcu/sequence/UCLexomes/mainset_December2015_chr*.vcf.gz
 --ref-gene-file /home/rejudcu/reference/refseqgenesorted101115.txt 
 --margin 0
 --upstream 0 
