@@ -1,6 +1,7 @@
 --output-file-spec /cluster/project8/bipolargenomes/WKS/WKS.ct08/pathways/WKS.ct08.PATHWAY.pao
 --score-file-spec /cluster/project8/bipolargenomes/WKS/WKS.ct08/results/WKS.ct08.GENE.sco
 --summary-file /cluster/project8/bipolargenomes/WKS/WKS.ct08/pathways/WKS.ct08.summ.pao
---gene-level-output-threshold 2
+--gene-level-output-threshold 1
 --pathway-file /home/rejudcu/reference/c5.all.v5.0.symbols.gmt
+
 
