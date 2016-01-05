@@ -1,0 +1,6 @@
+--arg-file ~/pars/gva.UCLexomes.ct08.rare.arg
+--phenotype-file ~/pars/mainset_December2015_IDs.IBDAJ.txt
+nsub(1)<282-5
+
+
+

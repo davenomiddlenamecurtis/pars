@@ -1,0 +1,6 @@
+--phenotype-file C:\sequence\UCLexomes\mainset_December2015_IDs.WKS.txt
+--clear-case 1
+--case-file C:\sequence\UCLexomes\mainset_December2015_chr*.vcf.gz
+--ref-gene-file c:\reference\refseqgenesorted.txt 
+--bait-file c:\reference\SureSelect_All_Exon_50mb.hg19.w100.nr.bed
+--reference-path c:\reference

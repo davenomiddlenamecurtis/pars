@@ -1,10 +1,9 @@
---phenotype-file /cluster/project8/bipolargenomes/WKS/mainset_December2015_IDs.WKS.txt
 --case-file  /home/rejudcu/sequence/UCLexomes/mainset_December2015_chr*.vcf.gz
 --ref-gene-file /home/rejudcu/reference/refseqgenesorted101115.txt 
 --margin 0
 --upstream 0 
 --downstream 0
---weight-factor 10.0 
+--weight-factor 1.0 
 --use-ensembl 0 
 --consequence-threshold 8 
 --use-consequence-weights 1 
@@ -24,8 +23,6 @@
 --GQ-threshold 10
 --exclusion-list -
 freq(0)=0 & freq(1)=0
-freq(0)>0.1 & freq(1)>0.1
 (0 genocount 0) > (0 genocount 1) & (0 genocount 2) > (0 genocount 1) & (1 genocount 0) > (1 genocount 1) & (1 genocount 2) > (1 genocount 1)     
-nsub(0)<3600
-(1 genocount 1) > 9
-
+nsub(0)+nsub(1)<4557*0.8
+nsub(1)<30-1
