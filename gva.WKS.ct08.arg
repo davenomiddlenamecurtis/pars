@@ -4,7 +4,7 @@
 --margin 0
 --upstream 0 
 --downstream 0
---weight-factor 1.0 
+--weight-factor 10.0 
 --use-ensembl 0 
 --consequence-threshold 8 
 --use-consequence-weights 1 
