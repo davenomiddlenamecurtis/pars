@@ -1,5 +1,6 @@
---arg-file ~/pars/gva.UCLexomes.ct08.rare.arg
---phenotype-file ~/pars/mainset_December2015_IDs.IBDAJ.txt
+--arg-file /home/rejudcu/pars/gva.UCLexomes.ct08.rare.arg
+--phenotype-file /home/rejudcu/pars/mainset_December2015_IDs.IBDAJ.txt
+--exclusion-list -
 nsub(1)<282-5
 
 
