@@ -1,7 +1,7 @@
 --samples-file swe1.samples
 --case-file imputed.swe1.chr22_018_021.vcf.gz
 --clear-case 1
---ref-gene-file /home/dcurtis/reference/refseqgenesorted.txt 
+--ref-gene-file /home/dcurtis/reference/refseqgenesorted101115.txt 
 --bait-file /home/dcurtis/reference/SureSelect_All_Exon_50mb.hg19.w100.nr.bed 
 --margin 0
 --upstream 1000 
