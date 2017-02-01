@@ -1,0 +1,6 @@
+--output-file-spec /cluster/project8/bipolargenomes/WKS/WKS.ct08.rare/pathways/WKS.ct08.rare.PATHWAY.pao
+--score-file-spec /cluster/project8/bipolargenomes/WKS/WKS.ct08.rare/results/WKS.ct08.rare.GENE.sco
+--summary-file /cluster/project8/bipolargenomes/WKS/WKS.ct08.rare/pathways/WKS.ct08.rare.summ.pao
+--gene-level-output-threshold 1
+--pathway-file /home/rejudcu/reference/c5.all.v5.0.symbols.gmt
+

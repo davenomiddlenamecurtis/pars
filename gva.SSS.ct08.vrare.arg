@@ -1,6 +1,7 @@
---trio-file /home/rejudcu/sequence/SSSDNM/vcf/SSSDNMtrios.txt
---case-file /home/rejudcu/sequence/SSSDNM/vcf/CMB-trios_New.dbGAP.vcf.gz
---ref-gene-file /home/rejudcu/reference/refseqgenesorted101115.txt  
+--phenotype-file /home/rejudcu/sequence/SSSchizophrenia/SSSPhenotypes.txt
+--case-file /home/rejudcu/sequence/SSSchizophrenia/scz-only-exome-all-nozeros.vcf.gz
+--ref-gene-file /home/rejudcu/reference/refseqgenesorted101115.txt 
+--reference-path /home/rejudcu/reference
 --margin 0
 --upstream 0 
 --downstream 0
@@ -8,9 +9,9 @@
 --use-ensembl 0 
 --consequence-threshold 8 
 --use-consequence-weights 1 
---only-use-SNPs 0 
+--only-use-SNPs 1 
 --write-comments 1 
---write-score-file 1
+--write-score-file 1 
 --do-recessive-test 1 
 --weight-threshold 80
 --LD-threshold 0.7
@@ -19,11 +20,11 @@
 --unknown-if-no-pass 1
 --skip-if-no-pass 1
 --ignore-alleles 1
---use-haplotypes 1 
---reference-path /home/rejudcu/reference
+--use-haplotypes 0 
 --GQ-threshold 30
 --exclusion-list -
 freq(0)=0 & freq(1)=0
-freq(0)>0.1 & freq(1)>0.1
+nsub(0)<2545-100 | nsub(1)<2545-100
+freq(0)>0.01 & freq(1)>0.01
 (0 genocount 0) > (0 genocount 1) & (0 genocount 2) > (0 genocount 1) & (1 genocount 0) > (1 genocount 1) & (1 genocount 2) > (1 genocount 1)     
 

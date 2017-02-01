@@ -1,5 +1,5 @@
---trio-file /home/rejudcu/sequence/SSSDNM/vcf/SSSDNMtrios.txt
---case-file /home/rejudcu/sequence/SSSDNM/vcf/CMB-trios_New.dbGAP.vcf.gz
+--trio-file /cluster/project9/bipolargenomes/SSSDNM/filteredVCF/SSSDNMtriosnew.txt
+--case-file /cluster/project9/bipolargenomes/SSSDNM/filteredVCF/SSSDNM.*.filtered.vcf.gz
 --ref-gene-file /home/rejudcu/reference/refseqgenesorted101115.txt  
 --margin 0
 --upstream 0 
@@ -10,20 +10,22 @@
 --use-consequence-weights 1 
 --only-use-SNPs 0 
 --write-comments 1 
---write-score-file 1
+--write-score-file 1 
 --do-recessive-test 1 
 --weight-threshold 80
 --LD-threshold 0.7
---add-chr 1
---unknown-if-untyped 0
+--add-chr 0
+--unknown-if-untyped 1
 --unknown-if-no-pass 1
 --skip-if-no-pass 1
 --ignore-alleles 1
 --use-haplotypes 1 
 --reference-path /home/rejudcu/reference
---GQ-threshold 30
+--GQ-threshold 60
+--keep-temp-files 0
 --exclusion-list -
 freq(0)=0 & freq(1)=0
-freq(0)>0.1 & freq(1)>0.1
+nsub(0)<591-59 | nsub(1)<591-59 
+freq(0)>0.01 & freq(1)>0.01
 (0 genocount 0) > (0 genocount 1) & (0 genocount 2) > (0 genocount 1) & (1 genocount 0) > (1 genocount 1) & (1 genocount 2) > (1 genocount 1)     
 

@@ -1,0 +1,7 @@
+--arg-file /home/rejudcu/pars/gva.UCLexJuly2016.ct08.rare.arg
+--ID-and-phenotype-file /SAN/vyplab/UCLex/mainset_July2016/varassoc/Prionb2_case_control_list
+--exclusion-list -
+abs(freq(0)-freq(1))>0.05
+freg(0)>0.02 & freq(0)/2>freq(1)
+freg(1)>0.02 & freq(1)/2>freq(0)
+

@@ -1,0 +1,6 @@
+--pathway-file /home/rejudcu/reference/c5.all.v5.0.symbols.gmt
+--score-file-spec /cluster/project9/bipolargenomes/SSS2/SSS2.ct08.vrare/results/SSS2.ct08.vrare.GENE.sco
+--output-file-spec /cluster/project9/bipolargenomes/SSS2/SSS2.ct08.vrare/pathways/SSS2.ct08.vrare.PATHWAY.pao
+--summary-file /cluster/project9/bipolargenomes/SSS2/SSS2.ct08.vrare/pathways/SSS2.ct08.vrare.summ.pao
+--gene-level-output-threshold 1.3
+
