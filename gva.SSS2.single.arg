@@ -1,0 +1,5 @@
+--exclude-expression ' (("AF" VCFLOOKUP "../vcf/SSS2/ExAC.r0.3.nonpsych.sites.vcf.gz")) > 0'
+--exclusion-list -
+(0 GENOCOUNT 1) + (1 GENOCOUNT 1) != 1
+
+

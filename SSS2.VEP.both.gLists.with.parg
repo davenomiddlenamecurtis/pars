@@ -1,0 +1,6 @@
+--pathway-file /home/rejudcu/pars/genoveseSets.with.lst
+--score-table-file /cluster/project9/bipolargenomes/SSS2/SSS2.VEP.both/results/SSS2.VEP.both.scores.txt
+--output-file-spec /cluster/project9/bipolargenomes/SSS2/SSS2.VEP.both/pathways/with/SSS2.VEP.both.gLists.PATHWAY.pao
+--summary-file /cluster/project9/bipolargenomes/SSS2/SSS2.VEP.both/pathways/with/SSS2.VEP.both.gLists.summ.pao
+--gene-level-output-threshold 1.3
+

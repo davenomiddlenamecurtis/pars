@@ -1,0 +1,12 @@
+--IDphenotypefile  /home/rejudcu/UKBB/asthma/UKBB.earlyAsthma.txt
+--inputscorefilespec /cluster/project9/bipolargenomes/UKBB/UKBB.HL.all.20201231/results/UKBB.HL.all.20201231.GENE.sco
+--outputfilespec /cluster/project9/bipolargenomes/UKBB/UKBB.earlyAsthma.R.20210804/results/UKBB.earlyAsthma.R.20210804.GENE.rsao
+--summaryoutputfile /cluster/project9/bipolargenomes/UKBB/UKBB.earlyAsthma.R.20210804/UKBB.earlyAsthma.R.20210804.summ.txt
+--varfile /SAN/ugi/UGIbiobank/data/downloaded/ukb23155.common.all.eigenvec.txt
+--varfile /home/rejudcu/UKBB/UKBB.sex.20201111.txt 
+--dottest 1
+--dolrtest 1  
+--testfile /home/rejudcu/pars/justScore.tst
+
+
+

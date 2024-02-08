@@ -1,1 +1,0 @@
-scoreassoc --gcdatafile gva.ABCA4.ucw.dat --numloci 225 --locusfilterfile gva.ABCA4.ucw.lf.par --locusweightfile gva.ABCA4.ucw.lw.par --locusnamefile gva.ABCA4.ucw.comm.par --triofile /home/rejudcu/sequence/SSSDNM/vcf/SSSDNMtrios.txt --filterfile gva.ABCA4.ucw.filter.par --outfile gva.ABCA4.ucw.sao

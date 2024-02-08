@@ -1,0 +1,4 @@
+--arg-file ../pars/gva.joint.myWeights.arg 
+--ID-and-phenotype-file /cluster/project9/bipolargenomes/MPexomes/vcf/scz.ID.txt
+--exclusion-list -
+NSUB(0)<1128-113 | NSUB(1)<1507-151

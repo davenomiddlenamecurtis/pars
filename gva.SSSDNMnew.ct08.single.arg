@@ -25,8 +25,8 @@
 --keep-temp-files 1
 --hetdev-threshold 3
 --exclusion-list -
-freq(0)=0 & freq(1)=0
-nsub(0)<591-59 | nsub(1)<591-59 
-(0 genocount 1) > 0
-(1 genocount 1) > 1
+FREQ(0)=0 & FREQ(1)=0
+NSUB(0)<591-59 | NSUB(1)<591-59 
+(0 GENOCOUNT 1) > 0
+(1 GENOCOUNT 1) > 1
 

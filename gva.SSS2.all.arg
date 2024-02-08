@@ -11,19 +11,15 @@
 --use-consequence-weights 1
 --only-use-SNPs 0 
 --write-comments 1 
---write-score-file 1
---do-recessive-test 0 
---weight-threshold 80
---LD-threshold 0.9
+--write-score-file 0
 --add-chr 0
 --unknown-if-untyped 0
 --unknown-if-no-pass 1
 --skip-if-no-pass 1
 --ignore-alleles 1
---use-haplotypes 0 
 --GQ-threshold 30
 --exclusion-list -
-freq(0)=0 & freq(1)=0
-nsub(0)<5834-583 | nsub(1)<4225-423
-(0 genocount 0) > (0 genocount 1) & (0 genocount 2) > (0 genocount 1) & (1 genocount 0) > (1 genocount 1) & (1 genocount 2) > (1 genocount 1)     
+FREQ(0)=0 & FREQ(1)=0
+(0 GENOCOUNT 0) > (0 GENOCOUNT 1) & (0 GENOCOUNT 2) > (0 GENOCOUNT 1) & (1 GENOCOUNT 0) > (1 GENOCOUNT 1) & (1 GENOCOUNT 2) > (1 GENOCOUNT 1)     
+NSUB(0)<5834-583 | NSUB(1)<4225-423
 

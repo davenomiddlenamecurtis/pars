@@ -1,0 +1,14 @@
+--IDphenotypefile  /home/rejudcu/UKBB/psoriasis.20230329/UKBB.Psoriasis.txt
+--inputscorefilespec /cluster/project9/bipolargenomes/UKBB/UKBB.HL.all.20201231/results/UKBB.HL.all.20201231.GENE.sco
+--outputfilespec /cluster/project9/bipolargenomes/UKBB/UKBB.psoriasis.20230402/results/UKBB.psoriasis.20230402.GENE.rsao
+--summaryoutputfile /cluster/project9/bipolargenomes/UKBB/UKBB.psoriasis.20230402/UKBB.psoriasis.20230402.summ.txt
+--varfile /SAN/ugi/UGIbiobank/data/downloaded/ukb23155.common.all.eigenvec.txt
+--varfile /home/rejudcu/UKBB/UKBB.sex.20201111.txt 
+--dottest 1
+--dolrtest 1  
+--testfile /home/rejudcu/pars/justScore.tst
+--geneListFile /home/rejudcu/reference38/allGenes.20191018.onePCDHG.txt
+
+
+
+

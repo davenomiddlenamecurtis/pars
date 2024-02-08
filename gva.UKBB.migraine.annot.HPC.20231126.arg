@@ -1,0 +1,9 @@
+--ID-and-phenotype-file /home/rejudcu/UKBB/migraine.20211015/UKBB.migraine.txt
+--test-name UKBB.migraine.annot.HPC.20231126
+--arg-file /home/rejudcu/pars/gva.VCFsEtc.HPC.20231126.arg
+--arg-file /home/rejudcu/UKBB/RAP/pars/gva.UKBB.forAnnot.20231126.arg
+
+
+
+
+

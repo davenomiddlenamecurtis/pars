@@ -1,0 +1,6 @@
+--pathway-file /home/rejudcu/reference/c5.all.v5.0.symbols.gmt
+--score-table-file /cluster/project9/bipolargenomes/MIGen/MIGen.fitted.all/results/MIGen.fitted.all.scores.txt
+--output-file-spec /cluster/project9/bipolargenomes/MIGen/MIGen.fitted.all/pathways/MIGen.fitted.all.PATHWAY.pao
+--summary-file /cluster/project9/bipolargenomes/MIGen/MIGen.fitted.all/pathways/MIGen.fitted.all.summ.pao
+--gene-level-output-threshold 1.3
+

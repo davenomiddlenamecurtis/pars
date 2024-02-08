@@ -1,0 +1,14 @@
+--pathway-file /home/rejudcu/pars/genoveseSets.lst
+--score-table-file /cluster/project9/bipolargenomes/SSS2/SSS2.VEP.WF.lr/all.SSS2.VEP.WF.lr.scores.txt
+--output-file-spec /cluster/project9/bipolargenomes/SSS2/SSS2.VEP.WF.lr/pathways/SSS2.VEP.WF.lr.gLists.PATHWAY.pao
+--summary-file /cluster/project9/bipolargenomes/SSS2/SSS2.VEP.WF.lr/pathways/SSS2.VEP.WF.lr.gLists.summ.pao
+--gene-level-output-threshold 1.3
+--varfile  /home/rejudcu/vcf/SSS2/SSS2.pca.eigenvec 
+--varfile  /home/rejudcu/vcf/SSS2/SSS2.PRS.txt 
+--varfile  /home/rejudcu/vcf/SSS2/SSS2.CNVs.txt 
+--testfile /home/rejudcu/pars/justScore.tst 
+--testfile /home/rejudcu/pars/score.PCs.tst 
+--testfile /home/rejudcu/pars/score.PCs.PRS.tst 
+--testfile /home/rejudcu/pars/score.PCs.CNVs.tst 
+--testfile /home/rejudcu/pars/score.PCs.PRS.CNVs.tst 
+

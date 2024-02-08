@@ -1,0 +1,6 @@
+--output-file-spec /home/rejudcu/cyfip/SSS2.ct08.vrare.PATHWAY.pao
+--score-table-file /cluster/project9/bipolargenomes/SSS2/SSS2.ct08.vrare/results/SSS2.ct08.vrare.scores.txt
+--summary-file /home/rejudcu/cyfip/SSS2.ct08.vrare.cyfip.pao
+--pathway-file /home/rejudcu/reference/cyfip.interactors.txt
+--gene-level-output-threshold -10
+

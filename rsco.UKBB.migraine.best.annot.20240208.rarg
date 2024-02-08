@@ -1,0 +1,9 @@
+--IDphenotypefile  /home/rejudcu/UKBB/migraine.20240118/UKBB.migraine.onlyNew.20240208.txt
+--inputscorefilespec /cluster/project9/bipolargenomes/UKBB/UKBB.migraine.forAnnot.20240118/results/UKBB.migraine.forAnnot.20240118.GENE.sco
+--outputfilespec /cluster/project9/bipolargenomes/UKBB/UKBB.migraine.best.annot.20240208/results/UKBB.migraine.best.annot.20240208.GENE.rsao
+--summaryoutputfile /cluster/project9/bipolargenomes/UKBB/UKBB.migraine.annot.HPC.20231126/UKBB.migraine.annot.HPC.20231126.summ.txt
+--varfile /SAN/ugi/UGIbiobank/data/downloaded/ukb23158.common.all.20230806.eigenvec.txt
+--varfile /home/rejudcu/UKBB/UKBB.sex.20230807.txt 
+--dottest 0
+--dolrtest 0
+--locusweightnamefile /home/rejudcu/pars/UKBB.annot.20231126.wn.par  

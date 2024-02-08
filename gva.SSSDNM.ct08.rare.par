@@ -6,6 +6,6 @@
 0 8 1 0 1 0 1 35 0.7 1 1 1 1 1 - use ensembl, consequenceThreshold, useConsequenceWeights, not only SNPs, write comments, write scores, do recessive, weight threshold, LD threshold, add "chr" in VCF, unknownIfUntyped, noReadIfNoPass, unknownIfNoPass, use haplotypes
 /home/rejudcu/reference - location of reference sequence files
 30 - GQ quality score threshold
-freq(0)=0 & freq(1)=0
-freq(0)>0.1 & freq(1)>0.1
+FREQ(0)=0 & FREQ(1)=0
+FREQ(0)>0.1 & FREQ(1)>0.1
 

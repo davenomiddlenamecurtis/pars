@@ -1,0 +1,20 @@
+--arg-file /home/rejudcu/pars/gva.UKBB.PTV.20220404.arg
+--ID-and-phenotype-file /home/rejudcu/UKBB/BMI.20210111/UKBB.BMI.20201103.txt
+--test-name gva.UKBB.BMI.PTV.20220404
+--lamda 0
+--isquantitative 1 
+--dottest 0 
+--dolinrtest 1  
+--maxmaf 0.01
+--write-score-file 1
+--exclusion-list -
+(FREQ(0)=0) | (FREQ(0)=1) 
+FREQ(0)>0.01 & FREQ(0)<0.99 
+NSUB(0)<NSAMPLE(0)*0.9 
+(0 GENOCOUNT 0) > (0 GENOCOUNT 1) & (0 GENOCOUNT 2) > (0 GENOCOUNT 1) 
+
+
+
+
+
+

@@ -1,0 +1,6 @@
+--pathway-file /home/rejudcu/reference/c5.all.v5.0.symbols.gmt
+--score-table-file /cluster/project9/bipolargenomes/MPexomes/MPexomes.bpOnly.fitted.vrare/results/MPexomes.bpOnly.fitted.vrare.scores.txt
+--output-file-spec /cluster/project9/bipolargenomes/MPexomes/MPexomes.bpOnly.fitted.vrare/pathways/MPexomes.bpOnly.fitted.vrare.PATHWAY.pao
+--summary-file /cluster/project9/bipolargenomes/MPexomes/MPexomes.bpOnly.fitted.vrare/pathways/MPexomes.bpOnly.fitted.vrare.summ.pao
+--gene-level-output-threshold 1.3
+

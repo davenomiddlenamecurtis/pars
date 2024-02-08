@@ -1,0 +1,10 @@
+--pathway-file /home/rejudcu/reference/c5.all.v5.0.symbols.gmt
+--score-file-spec /cluster/project9/bipolargenomes/ADSP/ADSP.all/results/ADSP.all.GENE.sco
+--output-file-spec /cluster/project9/bipolargenomes/ADSP/ADSP.all/pathways/ADSP.all.PATHWAY.pao
+--summary-file /cluster/project9/bipolargenomes/ADSP/ADSP.all/pathways/ADSP.all.summ.pao
+--gene-level-output-threshold 1.3
+--varfile ../vcf/ADSP/ADSP.pca.eigenvec
+--dottest 1
+--testfile ../pars/justScore.tst
+--testfile ../pars/score.PCs.tst
+
